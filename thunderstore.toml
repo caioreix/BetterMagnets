@@ -23,6 +23,7 @@ target = ""
 
 [publish]
 repository = "https://thunderstore.io"
-communities = []
+communities = ["deep-rock-galactic-survivor"]
 
 [publish.categories]
+deep-rock-galactic-survivor = ["mods"]
