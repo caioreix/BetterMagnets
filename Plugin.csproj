@@ -6,11 +6,11 @@
     <AssemblyName>BetterMagnets</AssemblyName>
     <RootNamespace>BetterMagnets</RootNamespace>
     <SolutionName>BetterMagnets</SolutionName>
-    <Description>BetterMagnets</Description>
+    <Description>BetterMagnets is a Deep Rock Galactic: Survivor plugin that improves the artifact magnet experience. With this mod, you can earn magnets at the end of each run without losing experience, and the Company Issued Magnet artifact finally gets a real use.</Description>
     <Version>0.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
-    <NoWarn>IDE0130</NoWarn>
+    <NoWarn>IDE0130;CS0435</NoWarn>
 
     <BepInExVersion>6.0.0-be.733</BepInExVersion>
   </PropertyGroup>

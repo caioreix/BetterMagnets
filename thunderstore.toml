@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 namespace = "Caioreix"
 name = "BetterMagnets"
 versionNumber = "0.0.0"
-description = "BetterMagnets"
+description = "BetterMagnets is a Deep Rock Galactic: Survivor plugin that improves the artifact magnet experience. With this mod, you can earn magnets at the end of each run without losing experience, and the Company Issued Magnet artifact finally gets a real use."
 websiteUrl = "https://github.com/caioreix/BetterMagnets"
 containsNsfwContent = false
 
